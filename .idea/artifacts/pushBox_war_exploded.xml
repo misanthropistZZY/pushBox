@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="pushBox:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/pushBox_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="pushBox/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="pushBox" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
